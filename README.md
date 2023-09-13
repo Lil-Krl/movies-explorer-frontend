@@ -1,6 +1,11 @@
 # Проект movies-explorer-frontend
 
 Фронтэнд часть дипломного проекта
-Адрес репозитория https://github.com/Lil-Krl/movies-explorer-frontend адрес репозитория бэкэнд: https://github.com/Lil-Krl/movies-explorer-api
 
-макет: dark-2
+## Ссылки на проект
+
+* Адрес репозитория: https://github.com/Lil-Krl/movies-explorer-frontend
+* Адрес репозитория бэкэнд: https://github.com/Lil-Krl/movies-explorer-api
+* Адрес приложения: lil-krl.movies.nomoredomainsicu.ru
+* Адрес бэкэнда: api.lil-krl.movies.nomoredomainsicu.ru
+* pull request: https://github.com/Lil-Krl/movies-explorer-frontend/pulls
