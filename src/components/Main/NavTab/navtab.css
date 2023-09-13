@@ -1,0 +1,15 @@
+@import url(./nav-link.css);
+
+.navtab {
+  padding: 0;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+}
+
+@media screen and (max-width: 767px) {
+  .navtab {
+    column-gap: 6px;
+  }
+}

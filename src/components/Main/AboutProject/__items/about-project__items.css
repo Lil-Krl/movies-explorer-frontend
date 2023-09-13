@@ -1,0 +1,15 @@
+.about-project__items {
+  margin: 70px 0 0;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 767px) {
+  .about-project__items {
+    margin-top: 60px;
+    row-gap: 57px;
+  }
+}
